@@ -10,8 +10,8 @@ function setup() {
 	birdy = createSprite(50,400,20,20);
 	birdy.shapeColor = "yellow";
 
-	//goldenTower = round(random(20,50));
-	goldenTowerNum = 1;
+	goldenTower = round(random(20,50));
+	//goldenTowerNum = 1;
 }
 
 function draw() {
