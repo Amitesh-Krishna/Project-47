@@ -11,7 +11,6 @@ function setup() {
 	birdy.shapeColor = "yellow";
 
 	goldenTowerNum = round(random(20,50));
-	//goldenTowerNum = 1;
 }
 
 function draw() {
